@@ -10,3 +10,7 @@ h4, h5, p {
 	width: 50%;
 	height: auto;
 }
+
+#name {
+	font-family: 'Kosugi', sans-serif;
+}
