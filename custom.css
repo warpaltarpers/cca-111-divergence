@@ -1,0 +1,16 @@
+h1, h3 {
+	font-family: 'Major Mono Display', monospace;
+}
+
+h4, h5, p {
+	font-family: 'Raleway', sans-serif;
+}
+
+#hideo {
+	width: 50%;
+	height: auto;
+}
+
+#name {
+	font-family: 'Kosugi', sans-serif;
+}
